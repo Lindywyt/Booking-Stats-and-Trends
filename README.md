@@ -14,7 +14,8 @@ An online learning platform called CWW TECH AFRICA shared this dataset with her 
 - Are there differences in completion rates based on the number of passengers?
 - Total amount of purchase leads? 
 - Which sales channel had the highest completion rates? 
-- what percentage of the passengers wanted extra baggage, in-flight meals, or preferred seats? 
+- what percentage of the passengers wanted extra baggage, in-flight meals, or preferred seats?
+- Any further pertinent data-driven insights on customers flight booking report?
 
 # Skills Demonstrated: 
 - Dax,
